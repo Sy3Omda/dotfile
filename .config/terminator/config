@@ -1,0 +1,82 @@
+[global_config]
+  enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminatorThemes
+  always_split_with_profile = True
+[keybindings]
+  zoom_in = <Primary>equal
+  split_horiz = <Primary>h
+  split_vert = <Primary>v
+  next_tab = <Primary>Tab
+  new_terminator = <Super>t
+[profiles]
+  [[default]]
+    background_darkness = 0.86
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = CaskaydiaCove Nerd Font Mono Bold Italic 16
+    use_system_font = False
+  [[Aci]]
+    background_color = "#f3f3f3"
+    background_darkness = 0.95
+    background_type = transparent
+    cursor_color = "#FF0054"
+    font = Hack 12
+    foreground_color = "#000000"
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#0000ee:#cd00cd:#00cdcd:#e5e5e5:#7f7f7f:#ff0000:#00ff00:#ffff00:#5c5cff:#ff00ff:#00ffff:#ffffff"
+    use_system_font = False
+  [[Terminal Basic]]
+    background_color = "#ffffff"
+    background_darkness = 0.86
+    background_type = transparent
+    cursor_color = "#7f7f7f"
+    font = CaskaydiaCove Nerd Font Mono Bold Italic 16
+    foreground_color = "#000000"
+    palette = "#000000:#990000:#00a600:#999900:#0000b2:#b200b2:#00a6b2:#bfbfbf:#666666:#e50000:#00d900:#e5e500:#0000ff:#e500e5:#00e5e5:#e5e5e5"
+    use_system_font = False
+  [[Spring]]
+    background_color = "#ffffff"
+    background_darkness = 1.0
+    background_type = transparent
+    cursor_color = "#4d4d4c"
+    font = CaskaydiaCove Nerd Font Mono Bold Italic 16
+    foreground_color = "#4d4d4c"
+    palette = "#000000:#ff4d83:#1f8c3b:#1fc95b:#1dd3ee:#8959a8:#3e999f:#ffffff:#000000:#ff0021:#1fc231:#d5b807:#15a9fd:#8959a8:#3e999f:#ffffff"
+    use_system_font = False
+  [[Github]]
+    background_color = "#f4f4f4"
+    background_darkness = 0.86
+    background_type = transparent
+    cursor_color = "#3f3f3f"
+    font = CaskaydiaCove Nerd Font Mono Bold Italic 16
+    foreground_color = "#3e3e3e"
+    palette = "#3e3e3e:#970b16:#07962a:#f8eec7:#003e8a:#e94691:#89d1ec:#ffffff:#666666:#de0000:#87d5a2:#f1d007:#2e6cba:#ffa29f:#1cfafe:#ffffff"
+    use_system_font = False
+  [[Material]]
+    background_color = "#eaeaea"
+    background_darkness = 1.0
+    background_type = transparent
+    cursor_color = "#16afca"
+    font = CaskaydiaCove Nerd Font Mono Bold Italic 16
+    foreground_color = "#232322"
+    palette = "#212121:#b7141f:#457b24:#f6981e:#134eb2:#560088:#0e717c:#efefef:#424242:#e83b3f:#7aba3a:#ffea2e:#54a4f3:#aa4dbc:#26bbd1:#d9d9d9"
+    use_system_font = False
+  [[Hemisu light]]
+    cursor_color = "#aaaaaa"
+  [[Aco]]
+    background_color = "#1f1305"
+    background_darkness = 0.86
+    background_type = transparent
+    cursor_color = "#bae2fb"
+    font = Hack 16
+    foreground_color = "#b4e1fd"
+    palette = "#3f3f3f:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#bebebe:#474747:#ff1e8e:#8eff1e:#ff8e1e:#0883ff:#8e1eff:#1eff8e:#c4c4c4"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = Aco
+[plugins]

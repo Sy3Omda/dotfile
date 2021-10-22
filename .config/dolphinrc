@@ -1,0 +1,99 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC5AAACUfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAwAAAAVgAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAwAAACUQAAAFQA////AAAAAQAAAKgAAAOo/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAADAAAAOoAAABBgD///8AAAADAAAFVgAAAHj8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAIA////AAAEOAAAAlEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP-1 Height 1080=641
+eDP-1 Width 1920=1272
+eDP-1 XPosition=17
+eDP-1 YPosition=74
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=32
+
+[General]
+ConfirmClosingMultipleTabs=false
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=200
+ViewPropsTimestamp=2021,1,31,18,44,34
+
+[IconsMode]
+FontWeight=50
+IconSize=64
+PreviewSize=112
+
+[KPropertiesDialog]
+Height 1080=365
+Virtual1 Height 768=362
+Virtual1 Width 1366=445
+Width 1920=376
+eDP-1 Height 1080=434
+eDP-1 Height 1920x1080=378
+eDP-1 Width 1920=522
+eDP-1 Width 1920x1080=431
+
+[MainWindow]
+Height 1080=668
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACFAAACdvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAwAAAAVgAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACdgAAAFQA////AAAAAQAAALAAAAJ2/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAJ2AAAA+AD///8AAAADAAAFVgAAAHj8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAIA////AAADtQAAAnYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Virtual1 Height 612=480
+Virtual1 Height 616=520
+Virtual1 Height 768=480
+Virtual1 Height 884=537
+Virtual1 Height 888=500
+Virtual1 Width 1360=910
+Virtual1 Width 1364=1364
+Virtual1 Width 1366=910
+Virtual1 Width 1914=1268
+Virtual1 Width 1918=750
+Virtual1 Window-Maximized 1366x768=true
+Virtual1 XPosition=799
+Virtual1 YPosition=117
+Width 1920=1272
+eDP-1 Height 1080=641
+eDP-1 Height 1920x1080=984
+eDP-1 Width 1920=1272
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=260
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition=132
+eDP-1 YPosition 1920x1080=56
+eDP-1-1 Height 1920x1080=1023
+eDP-1-1 Width 1920x1080=1880
+eDP-1-1 Window-Maximized 1920x1080=true
+eDP-1-1 XPosition 1920x1080=40
+eDP-1-1 YPosition 1920x1080=57
+
+[Open-with settings]
+CompletionMode=1
+History=wine,code,word,vmw,kw,ard,kl
+
+[PreviewSettings]
+Plugins=exrthumbnail,svgthumbnail,blenderthumbnail,opendocumentthumbnail,comicbookthumbnail,appimagethumbnail,directorythumbnail,windowsexethumbnail,gsthumbnail,imagethumbnail,ebookthumbnail,windowsimagethumbnail,audiothumbnail,djvuthumbnail,fontthumbnail,rawthumbnail,jpegthumbnail,kraorathumbnail
+
+[Search]
+Location=Everywhere
+What=Content
+
+[SettingsDialog]
+Virtual1 Height 768=380
+Virtual1 Width 1366=729
+eDP-1 Height 1080=393
+eDP-1 Height 1920x1080=393
+eDP-1 Width 1920=733
+eDP-1 Width 1920x1080=779
+
+[ViewPropertiesDialog]
+eDP-1 Height 1080=235
+eDP-1 Width 1920=423
+
+[kuick-copy]
+Paths[$e]=$HOME/data/iso/,$HOME/data/,/media/emad/Ventoy
