@@ -358,6 +358,11 @@ install_cmus(){
 		sudo apt -y install cmus
 }
 
+install_autokey(){
+		# Autokey is keybinding for linux like autohotkey in windows
+		sudo apt -y install autokey-qt
+}
+
 install_all(){
 		install_update
 		must_install_progs
@@ -403,6 +408,7 @@ install_all(){
 		install_koi
 		install_edge
 		install_cmus
+		install_autokey
 }
 
 		read -p "Install All Programs. Are you sure (y/n)?" choice
@@ -701,6 +707,12 @@ install_all(){
 				case "$choice" in
 				y|Y ) install_cmus;;
 				n|N ) show_msg "\nSkipped cmus !";;
+				esac
+
+				read -p "install autokey (window key binding manager) (y/n)?" choice
+				case "$choice" in
+				y|Y ) install_autokey;;
+				n|N ) show_msg "\nSkipped autokey !";;
 				esac
 
 
