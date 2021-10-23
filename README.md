@@ -75,3 +75,4 @@ Install zsh and other shell tools
 this script you have to run it twice because the first one it will exit execution after set zsh as default shell
 and finally the results would as following image
 
+![terminator](/src/1.png)
